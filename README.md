@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Kauã Lavor 
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Meu nome é Kauã Lavor, tenho 21 anos e sou natural de São Paulo. Atualmente, curso Engenharia de Software e tenho grande interesse na área de tecnologia, buscando constantemente aprimorar meus conhecimentos e desenvolver novas habilidades.
 
