@@ -14,10 +14,9 @@ Busco minha primeira oportunidade na área para aplicar meus conhecimentos, evol
 
 ## 🛠️ Tecnologias
 
-- HTML, CSS, JavaScript
-- Python
-- Git e GitHub
-- Banco de Dados (básico)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github" />
+</p>
 
 ---
 
